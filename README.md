@@ -1,5 +1,7 @@
 # Sole&Ankle — Module 4 workshop
 
+## solution of workshop : https://codesandbox.io/s/runtime-bash-c37ve?file=/src/components/ShoeCard/ShoeCard.js
+
 In this workshop, our goal is to finish building an e-commerce store!
 
 The good news is, most of our work is done already. We just need to write some additional CSS to construct the layout; things are a bit messy right now!
